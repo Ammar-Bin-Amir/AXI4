@@ -14,7 +14,7 @@ AXI4-Lite, is a simplified variant of the AXI4 protocol. It is tailored for simp
 
 AXI4 (Advanced eXtensible Interface 4) is a high-performance, feature-rich protocol designed for complex System-on-Chip (SoC) architectures. It offers advanced features like burst transfers, out-of-order transaction completion, multiple outstanding transactions, and support for high-bandwidth requirements. AXI4 provides a robust framework for communication between various components within an SoC, facilitating efficient data transfers between masters (e.g., processors) and slaves (e.g., memory, peripherals) while ensuring low-latency and high-throughput operations.
 
-## Refereneces
+## References
 
 - [Rules for Ready/Valid Handshakes](http://fpgacpu.ca/fpga/handshake.html)
 - [AMBA AXI and ACE Protocol Specification AXI3, AXI4, and AXI4-Lite ACE and ACE-Lite](http://www.gstitt.ece.ufl.edu/courses/fall15/eel4720_5721/labs/refs/AXI4_specification.pdf)
